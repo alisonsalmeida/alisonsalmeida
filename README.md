@@ -6,12 +6,9 @@
 ![Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter)
 ![Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql)
 ### 💼 Desenvolvedor de Software
-<p>Atualmente é desenvolvedor Senior no Laboratorio de Sistemas Embarcados dentro do centro da Pesquisa da Universidade do Estado do Amazonas. Graduando em engenharia
+<p>Atualmente é desenvolvedor Senior no Laboratorio de Sistemas Embarcados dentro do centro da Pesquisa da Universidade do Estado do Amazonas. Formado em engenharia
 eletronica e pai de uma menina</p>
 
-### 🕛 Melhor Horario 🕡
-<p>Adoro trabalhar de madrugada, e quando nao está trabalhando está codando alguma coisa interessante, ou seja, ta sempre codando.
-Resumindo, amo programar.
 </p>
 
 ```python
